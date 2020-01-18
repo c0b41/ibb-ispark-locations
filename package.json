@@ -1,0 +1,13 @@
+{
+  "name": "ibb-ispark-location",
+  "version": "1.0.0",
+  "description": "ibb ispark park location",
+  "main": "index.js",
+  "repository": "https://github.com/cob41/ibb-ispark-location",
+  "author": "c0b41",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "got": "^10.2.2"
+  }
+}
